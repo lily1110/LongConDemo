@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LongConDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!--activity_main.xml-->
+    <string name="connection">连接</string>
+</resources>
